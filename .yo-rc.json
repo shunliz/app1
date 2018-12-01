@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "app1",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "app1",
+    "packageName": "app1",
+    "packageFolder": "app1",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2M0NDRlYjUzN2M5M2Y5ZGFjNDIzMzZkYzFjYWY4OThjZDVmZmI1Y2NkYWIzNzUyNzJiZTIyMDlhMDk1YTZkYWFjZTZlMmNmZTk4NTU4NTY2NjY2YzRmZDZhOWZlMDM3ZmFiZjJkNTg2NTVhNWRhOWY2ZTQ5NmE0NTE4ZjEwNTg=",
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
